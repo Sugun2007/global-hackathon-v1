@@ -8,14 +8,17 @@
 > 🌟 **No messy setup. One line to build. Use from anywhere.**  
 > Perfect for hackathons, projects, or anyone who hates “it works on my machine” problems!
 
+## 📥 Where to Download Everything
+Latest Release (with all ready-to-go resources, Makefile, code, and demo ZIP!)
+👉 📦 Download ZIP for version v1.0.0
 
+Check the releases page for a ready-to-use .zip that includes all code, headers, build scripts, and examples—no setup, no hassle!
 
 ## 🏁 Super-Fast Quick Start
 
 ### Linux
 
-<pre>git clone https://github.com/Sugun2007/global-hackathon-v1.git
-cd global-hackathon-v1/c-ds-lib
+<pre>
 sudo apt update && sudo apt install build-essential
 make
 sudo make install</pre>
@@ -33,8 +36,6 @@ wsl --install -d Ubuntu</pre>
 - Open Ubuntu from your Start Menu and run:
 
 <pre>sudo apt update && sudo apt install build-essential git
-git clone https://github.com/Sugun2007/global-hackathon-v1.git
-cd global-hackathon-v1/c-ds-lib
 make
 sudo make install</pre>
 
