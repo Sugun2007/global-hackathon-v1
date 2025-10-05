@@ -1,20 +1,20 @@
 # 🚀 C Data Structures Library (`c-ds-lib`)
 
-> **The plug-and-play toolkit for C learners & builders! 🎒**
+> **The plug-and-play toolkit for C learners & builders!**
 
 
-## 🐧 For Linux & 💻 Windows (with WSL2/Ubuntu)
+##  For Linux &  Windows (with WSL2/Ubuntu)
 
-> 🌟 **No messy setup. One line to build. Use from anywhere.**  
+>  **No messy setup. One line to build. Use from anywhere.**  
 > Perfect for hackathons, projects, or anyone who hates “it works on my machine” problems!
 
-## 📥 Where to Download Everything
+##  Where to Download Everything
 Latest Release (with all ready-to-go resources, Makefile, code, and demo ZIP!)
-👉 📦 Download ZIP for version v1.0.0
+Download ZIP for version v1.0.0
 
 Check the releases page for a ready-to-use .zip that includes all code, headers, build scripts, and examples—no setup, no hassle!
 
-## 🏁 Super-Fast Quick Start
+##  Super-Fast Quick Start
 
 ### Linux
 
@@ -23,9 +23,9 @@ sudo apt update && sudo apt install build-essential
 make
 sudo make install</pre>
 
-💡 Now you can use ds-lib in ALL your C apps!
+ Now you can use ds-lib in ALL your C apps!
 
-### Windows (THIS IS COOL🤩 — use Ubuntu in WSL2)
+### Windows (THIS IS COOL — use Ubuntu in WSL2)
 
 - Hit the Windows key, type “powershell”, right-click, run as **Admin**.
 <pre>wsl --install
@@ -42,7 +42,7 @@ sudo make install</pre>
 
 
 
-## 🎉 How To Use (It’s SO Easy!)
+##  How To Use (It’s SO Easy!)
 
 **In your project’s C code:**  
 #include <ds/ds_stack.h>
@@ -53,11 +53,11 @@ sudo make install</pre>
 ./a.out</pre>
 
 
-🎈 **That’s it! No weird flags. No headaches. Data Structures on demand!**
+ **That’s it! No weird flags. No headaches. Data Structures on demand!**
 
 
 
-## ⚡ Fun Example: Stacks in Two Lines!
+##  Fun Example: Stacks in Two Lines!
 
 <pre>#include <ds/ds_stack.h>
 #include <stdio.h>
@@ -73,7 +73,7 @@ ds_stack_free(S, NULL);
 
 
 
-## 🧰 Useful Makefile Commands
+##  Useful Makefile Commands
 
 | Command                | What it does                                  |
 |------------------------|-----------------------------------------------|
@@ -86,7 +86,7 @@ ds_stack_free(S, NULL);
 
 
 
-## 🛟 Troubleshooting (Real Talk)
+##  Troubleshooting (Real Talk)
 
 - **`ds/ds_"data structure".h: No such file...`**  
   👉 Run `sudo make install`, then use `#include <ds/ds_stack.h>`.  
@@ -105,7 +105,7 @@ ds_stack_free(S, NULL);
 
 
 
-## ✨ Join the Fun / Contribute
+##  Join the Fun / Contribute
 
 > Hackathons, school, jobs—this makes C easier.
 > MIT Licensed, built for the (https://github.com/Sugun2007/global-hackathon-v1)  
