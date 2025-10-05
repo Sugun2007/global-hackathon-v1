@@ -10,7 +10,7 @@
 
 ##  Where to Download Everything
 Latest Release (with all ready-to-go resources, Makefile, code, and demo ZIP!)
-Download ZIP for version v1.0.0
+Download ZIP for version v1.0.0 (download the c-ds-lib zip file)
 
 Check the releases page for a ready-to-use .zip that includes all code, headers, build scripts, and examples—no setup, no hassle!
 
