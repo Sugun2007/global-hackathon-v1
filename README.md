@@ -1,4 +1,4 @@
-# 🚀 C Data Structures Library (`c-ds-lib`)
+# 🚀 C Data Structures Library (`cdsl`)
 
 > **The plug-and-play toolkit for C learners & builders!**
 
